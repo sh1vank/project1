@@ -20,25 +20,6 @@
   * Not more than 5 batsman/bowler
   * Only a Single Wicket Keeper
 
-
-## Code Snippet
-
-```python
-  self.horizontalLayout.addWidget(self.label)
-  spacerItem = QtWidgets.QSpacerItem(40, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
-  
-   self.actionNEW_Team = QtWidgets.QAction(MainWindow)
-   self.actionNEW_Team.setObjectName("actionNEW_Team")
-   self.horizontalLayout_2.addWidget(self.lw1)
-   spacerItem = QtWidgets.QSpacerItem(200, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
-```
-
-
-```
-python3 fantasy.py
-```
-
-
 ![evaluate_team](https://user-images.githubusercontent.com/40792388/48671631-6c7fe700-eb51-11e8-9244-50fa02df77ea.gif)
 
 
